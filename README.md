@@ -1,2 +1,2 @@
-# demo-repo
-this is main repo
+# this is documention of learning javascript
+## working with window.project
